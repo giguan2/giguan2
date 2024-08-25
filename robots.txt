@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 Allow: /
-Sitemap: https://giguan2.github.io/sitemap.xml
+Sitemap: https://toto-safe.com/sitemap.xml

@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://gijingang.com/sitemap.xml
+Sitemap: https://majorslot24.com/sitemap.xml

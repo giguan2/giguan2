@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://toto-safe.com/sitemap.xml
+Sitemap: https://gijingang.com/sitemap.xml
